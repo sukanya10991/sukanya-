@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background: linear-gradient(black 0%, deeppink 100%);
+    color: white;
+}
+
+#grid images img {
+    height: 170px !important;
+    width: 300px !important;
+    border-width: 5px;
+    padding: 2px;
+    border-color: white;
+}
+
+.line {
+    height: 6px;
+    background-color: white;
+    width: 70px;
+    margin: 8px auto;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
